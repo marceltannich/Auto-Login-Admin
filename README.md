@@ -29,4 +29,4 @@ This WordPress plugin is designed to simplify local debugging by automatically l
 This plugin is licensed under the [GNU General Public License v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) or later.
 
 ## Disclaimer
-**Important:** This plugin is for **local development only**. It is not intended for use on production environments.
+**Important:** This plugin is for **local debugging only**. It is not intended for use on production environments.
