@@ -1,5 +1,5 @@
 # Auto-Login-Admin
-When debugging locally, I sometimes encounter issues where fatal errors from third-party code prevent me from creating a user via WP-CLI, or I experience frequent automatic logouts. To address this, I developed a small plugin that bypasses these problems.
+When debugging locally, I sometimes encounter issues where fatal errors from third-party code prevent me from creating a user via WP-CLI, or I experience frequent automatic logouts. To address this, I created this plugin that bypasses these problems.
 
 - Simply copy the plugin file into the wp-content/mu-plugins directory on your local environment, and it will load automatically without the need for manual activation.
 - If you're working with a Duplicator copy or similar, there's no need to create a user (via WP-CLI, database, etc.) or use the credentials provided by the client.
