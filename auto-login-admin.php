@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Auto Login Admin and Disable Backend Login
  * Plugin URI:        https://github.com/marceltannich/auto-login-admin
- * Description: 	  Automatically logs in the first administrator and disables the backend login screen when debugging locally.
+ * Description: 	     Automatically logs in the first administrator and disables the backend login screen when debugging locally.
  * Version:           1.0
  * Author:            Marcel Tannich
  * Author URI:        https://tannich.com
