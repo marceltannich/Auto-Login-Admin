@@ -3,7 +3,7 @@
 This WordPress plugin is designed to simplify local debugging by automatically logging in users and bypassing issues like fatal errors from third-party code or frequent logouts. It ensures a seamless experience when working with local environments, especially when using copies of websites created with tools like Duplicator.
 
 ## Features
-- Automatically logs in the first administrator account found on your local environment.
+- Automatically logs in to the first administrator account found in your local environment.
 - Avoids fatal errors or interruptions caused by third-party code when creating users via WP-CLI etc.
 - Bypasses frequent automatic logouts.
 - Works even if the login endpoint has been renamed.
